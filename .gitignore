@@ -1,0 +1,5 @@
+.env
+*.csv
+items-*.json
+websites-to-check.json
+node_modules/
